@@ -1,0 +1,28 @@
+body {
+  font-family: helvetica, neue, -apple-system, BlinkMacSystemFont, avenir next,
+    avenir, ubuntu, roboto, noto, segoe ui, arial, sans-serif;
+}
+
+.fw4-plus {
+  font-weight: 450;
+}
+
+.stationLine + .stationLine {
+  margin-left: 0.15rem;
+}
+
+.grow-1 {
+  flex-grow: 1;
+}
+
+.bg-brown {
+  background-color: #734747;
+}
+
+.h-line {
+  height: 2px;
+}
+
+.w-15px {
+  width: 15px;
+}
