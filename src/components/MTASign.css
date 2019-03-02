@@ -7,10 +7,6 @@ body {
   font-weight: 450;
 }
 
-.stationLine + .stationLine {
-  margin-left: 0.15rem;
-}
-
 .grow-1 {
   flex-grow: 1;
 }
