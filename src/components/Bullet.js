@@ -17,7 +17,7 @@ class Bullet extends React.Component {
             fontWeight="400"
             fill={this.props.color === "#FCCC0A" ? "black" : "white"}
           >
-            <tspan x="7" y="19">
+            <tspan x="13" y="19" text-anchor="middle">
               {this.props.letter}
             </tspan>
           </text>

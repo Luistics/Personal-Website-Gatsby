@@ -29,7 +29,7 @@ const IndexPage = () => (
         randomColors={1}
       />
       <MTASign
-        bullets="HELLO"
+        bullets="World"
         colors={["red", "blue", "green", "purple", "black"]}
         label="Luis Olivar"
         randomColors={1}

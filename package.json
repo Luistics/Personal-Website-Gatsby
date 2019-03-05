@@ -1,7 +1,7 @@
 {
   "name": "luis-olivar-personal-website",
   "private": true,
-  "description": "A simple starter to get up and developing quickly with Gatsby",
+  "description": "A personal website that hosts resume, portfolio, and extras.",
   "version": "0.1.0",
   "author": "Luis Olivar <lao294@nyu.edu>",
   "dependencies": {

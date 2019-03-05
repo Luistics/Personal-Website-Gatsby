@@ -6,7 +6,8 @@ import Color from "../js/RandomColor";
 
 class MTASign extends React.Component {
   render() {
-    let letters = this.props.bullets.split("");
+    let handle = this.props.bullets.toUpperCase();
+    let letters = handle.split("");
     let numBullets = this.props.numBullets;
     let randomColorFlag = this.props.randomColors;
     let bulletColors = this.props.colors;
